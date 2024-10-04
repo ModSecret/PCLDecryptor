@@ -16,3 +16,11 @@ For example code, see the main function.
 付费切换主题和之前的付费下载快照版游戏只有你能干出来这种傻逼事了，启动到达一定次数直接弹窗主动要钱，你是什么级别的赛博乞丐？
 
 更新还有Silent字段，是准备随时下发后门吗，有什么见不得人的要静默更新🤣
+
+
+# Proof
+Silent字段从远程服务器拉取公告获取，防止狗乱叫
+![image](https://github.com/user-attachments/assets/c4545322-9c01-4df0-b91c-a66b6d683418)
+![image](https://github.com/user-attachments/assets/cf84f80e-2122-4c88-9351-9a6d3c3f9905)
+![image](https://github.com/user-attachments/assets/d7b9c2f8-19ce-47b4-a720-26da9100b29c)
+![image](https://github.com/user-attachments/assets/af5299ea-e4eb-4fb8-818f-a73a4418d883)
